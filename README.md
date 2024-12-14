@@ -41,8 +41,26 @@ The project aims to contribute in the following areas:
 * Extensive database of common ASL signs
 * Visual feedback to reduce learning difficulties
 
-## Requirements
+## Technical Requirements & Installation
 
-```bash
-google-generativeai
-gradio
+Required libraries:
+`google-generativeai`
+`gradio`
+
+Installation steps:
+
+1. Clone the repository:
+`git clone https://github.com/yeneralacayir/asl-video-analysis.git`
+`cd asl-video-analysis`
+
+2. Install required libraries:
+`pip install google-generativeai gradio`
+
+3. Set up your Google API key in the code:
+
+```python
+import google.generativeai as genai
+import gradio as gr
+import tempfile
+import os
+import time
