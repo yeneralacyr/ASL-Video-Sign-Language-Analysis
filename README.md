@@ -56,11 +56,4 @@ Installation steps:
 2. Install required libraries:
 `pip install google-generativeai gradio`
 
-3. Set up your Google API key in the code:
 
-```python
-import google.generativeai as genai
-import gradio as gr
-import tempfile
-import os
-import time
