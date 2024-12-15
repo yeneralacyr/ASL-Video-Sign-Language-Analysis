@@ -6,6 +6,8 @@ This project was developed under the auspices of the Community Service Practices
 
 Course Instructor: Asst. Prof. Dr. ÖZGE KUTLU DEMİR
 
+
+
 ### Academic and Social Contribution
 
 The project aims to contribute in the following areas:
@@ -55,5 +57,27 @@ Installation steps:
 
 2. Install required libraries:
 `pip install google-generativeai gradio`
+
+## Contributors
+Damla AKBABA
+Zeynep Ece BİLGİÇ
+Gönül Eda DALMAZ
+Gülçin ÜSTÜNER
+Hacer GÖKTAŞ
+Ömer Mete GEDİK
+Nil Şara BAŞTÜRK
+Ruken ORUÇ
+Savaş ŞAHİN
+Şevval İNCE
+Yağmur OKTAY
+Berivan DEMİR
+Duygu ÇAKIR
+Duygu UÇMAN
+Ekinsu DÜZGÜN
+Esra SARICAN
+Kadir KALLİ
+Rojda KARAYEL
+Leila
+
 
 
