@@ -59,7 +59,7 @@ Installation steps:
 `pip install google-generativeai gradio`
 
 ## Contributors
-Damla AKBABA - Zeynep Ece BİLGİÇ - Gönül Eda DALMAZ - Gülçin ÜSTÜNER - Hacer GÖKTAŞ - Ömer Mete GEDİK - Nil Şara BAŞTÜRK - Ruken ORUÇ - Savaş ŞAHİN - Şevval İNCE - Yağmur OKTAY - Berivan DEMİR - Duygu ÇAKIR - Duygu UÇMAN - Ekinsu DÜZGÜN - Esra SARICAN - Kadir KALLİ - Rojda KARAYEL - Leila
+Damla AKBABA - Zeynep Ece BİLGİÇ - Gönül Eda DALMAZ - Gülçin ÜSTÜNER - Hacer GÖKTAŞ - Ömer Mete GEDİK - Nil Şara BAŞTÜRK - Ruken ORUÇ - Savaş ŞAHİN - Şevval İNCE - Semiha KARATAȘ - Yağmur OKTAY - Berivan DEMİR - Duygu ÇAKIR - Duygu UÇMAN - Ekinsu DÜZGÜN - Esra SARICAN - Kadir KALLİ - Rojda KARAYEL - Leila
 
 
 
